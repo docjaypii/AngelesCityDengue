@@ -13,7 +13,7 @@ var lyr_AngelesCity_0 = new ol.layer.Vector({
                 style: style_AngelesCity_0,
                 popuplayertitle: 'Angeles City',
                 interactive: true,
-    title: 'Angeles City<br />\
+    title: 'Dengue Incidence Rate<br />\
     <img src="styles/legend/AngelesCity_0_0.png" /> < 1 per 10,000 population<br />\
     <img src="styles/legend/AngelesCity_0_1.png" /> 1 to 5 per 10,000 population<br />\
     <img src="styles/legend/AngelesCity_0_2.png" /> 5 to 9 per 10,000 population<br />\
